@@ -1,2 +1,3 @@
 # NHK2024_R1CANIDList
 R1のCANIDをリストアップするリポジトリ
+R1CANIDList.hをインクルードして使ってください
