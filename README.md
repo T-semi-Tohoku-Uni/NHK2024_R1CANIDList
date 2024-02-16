@@ -1,0 +1,2 @@
+# NHK2024_R1CANIDList
+R1のCANIDをリストアップするリポジトリ
