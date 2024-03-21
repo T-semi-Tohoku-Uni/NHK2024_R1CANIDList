@@ -11,7 +11,7 @@
 
 //for data transmit
 #define DJI_CANID_TX0 0x200
-#define DJI_CANID_TX1 0x199
+#define DJI_CANID_TX1 0x1FF
 
 
 //for data feedback
