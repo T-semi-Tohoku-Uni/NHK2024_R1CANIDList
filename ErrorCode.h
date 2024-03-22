@@ -7,6 +7,9 @@
  * | マイコンID (4bit) | エラーコード (4bit) |
 */
 
+// Microcontroller ID (4 bits), マクロはリポジトリの名前と一致させる
+#define ArmWheelController 0b0000
+
 // Error code (4 bits)
 #define INITIALIZATION_ERROR 0b0000
 #define MEMORY_ERROR 0b0001
