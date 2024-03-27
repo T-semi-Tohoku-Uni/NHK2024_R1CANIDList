@@ -27,5 +27,6 @@
 #define CANID_ARM2 0x109 //0b001 0000 1001
 
 #define CANID_ROBOT_VEL 0x10B
+#define CANID_ROBOT_VEL_FB 0x200 // For debug motor => raspberrypi
 
 #endif //NHK2024_R1CANIDLIST_R1CANIDLIST_H
