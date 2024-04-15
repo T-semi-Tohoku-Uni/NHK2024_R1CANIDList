@@ -28,15 +28,11 @@
 
 #define CANID_ROBOT_VEL 0x10B
 
-#define CANID_CHANGE_SHOOT_SETPOINT 0x110
-
 #define CANID_ROBOT_VEL_FB 0x200 // For debug motor => raspberrypi
 
-<<<<<<< Updated upstream
 // For PID debug
 #define CANID_SHOOT_FOR_DEBUG 0x301
-=======
 #define CANID_CHECK_IS_ACTIVE 0x500
->>>>>>> Stashed changes
+#define CANID_SEEDLING_ARM_SEEDLING_GET 0x152
 
 #endif //NHK2024_R1CANIDLIST_R1CANIDLIST_H
