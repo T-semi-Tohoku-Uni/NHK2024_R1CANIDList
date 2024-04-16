@@ -26,6 +26,8 @@
 #define CANID_ARM1 0x108 //0b001 0000 1000
 #define CANID_ARM2 0x109 //0b001 0000 1001
 
+#define CANID_SEEDLING_ARM_EXPAND 0x170
+
 #define CANID_ROBOT_VEL 0x10B
 
 #define CANID_ROBOT_VEL_FB 0x200 // For debug motor => raspberrypi
